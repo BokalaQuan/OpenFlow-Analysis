@@ -27,7 +27,7 @@
 
 1. 开放的南向接口
 
-![1](/home/bokala/Documents/OpenFlow-Analysis/1.png)
+![1](https://github.com/BokalaQuan/OpenFlow-Analysis/blob/master/1.png)
 
 2. 通用转发抽象模型
 
